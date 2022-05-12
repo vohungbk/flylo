@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/flylo/static/js/main.932fd51b.js",
+    "static/js/787.867b0296.chunk.js": "/flylo/static/js/787.867b0296.chunk.js",
+    "index.html": "/flylo/index.html",
+    "main.932fd51b.js.map": "/flylo/static/js/main.932fd51b.js.map",
+    "787.867b0296.chunk.js.map": "/flylo/static/js/787.867b0296.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.932fd51b.js"
+  ]
+}
